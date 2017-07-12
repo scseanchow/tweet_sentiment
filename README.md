@@ -11,4 +11,4 @@ A quick project to determine the sentiment analysis of tweets using tweepy and t
 
 ## Usage:
 
-python sentiment.py 'query' 'max_search_results'
+`python sentiment.py 'query' 'max_search_results'`
